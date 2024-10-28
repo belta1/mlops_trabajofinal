@@ -1,0 +1,10 @@
+src/src_old.py
+mlops_model_dev/*
+data/rossmann-store-sales
+old
+.vscode
+__pycache__
+data/pyvenv.cfg
+mlops_dev_env/
+output/x_train.xlsx
+MLOps_2024_6 + Tarea.pdf
